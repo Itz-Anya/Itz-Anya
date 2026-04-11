@@ -49,7 +49,5 @@ Coding, eating, sleeping… repeat ♾️
   <img src="https://komarev.com/ghpvc/?username=Itz-Anya&label=Visitors&color=FF6EC7&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Itz-Anya&theme=radical&hide_border=true" width="90%" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Itz-Anya&theme=calm-pink&hide_border=true&mode=weekly&fire=EB5454)](https://git.io/streak-stats)
 
