@@ -40,3 +40,16 @@ Coding, eating, sleeping… repeat ♾️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,sql" />
 </p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Itz-Anya&label=Visitors&color=FF6EC7&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Itz-Anya&theme=radical&hide_border=true" width="90%" />
+</p>
+
