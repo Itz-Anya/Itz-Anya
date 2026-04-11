@@ -15,8 +15,9 @@
 
 
 <p align="center">
-<img src="https://avatars.githubusercvontent.com/u/121714623?v=4" width="350" height="350" alt="profile picture" />
+<img src="https://itz-murali-images.vercel.app/anya" width="350" height="350" alt="profile picture" />
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
 
@@ -49,5 +50,14 @@ Coding, eating, sleeping… repeat ♾️
   <img src="https://komarev.com/ghpvc/?username=Itz-Anya&label=Visitors&color=FF6EC7&style=for-the-badge" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Itz-Anya&theme=calm-pink&hide_border=true&mode=weekly&fire=EB5454)](https://git.io/streak-stats)
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Itz-Anya&theme=calm-pink&hide_border=true&mode=weekly&fire=EB5454" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
+</p>
