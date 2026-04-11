@@ -10,5 +10,12 @@
 
 
 
-
 <h1 align="center">𝜜ɴყꫝㅤ𓆩💗𓆪 </h1>
+
+
+
+<p align="center">
+<img src="https://avatars.githubusercvontent.com/u/121714623?v=4" width="350" height="350" alt="profile picture" />
+</p>
+
+
