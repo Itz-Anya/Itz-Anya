@@ -34,7 +34,8 @@ I create things that actually work —
 Coding, eating, sleeping… repeat ♾️  
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
+</div> 
 
 ## 🛠 Tech Stack
 
@@ -42,7 +43,8 @@ Coding, eating, sleeping… repeat ♾️
   <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,sql" />
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
+</div>
 
 ## 📊 GitHub Stats
 
