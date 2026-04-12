@@ -22,16 +22,24 @@
 
 
 
-## 🌸 About Me
+## 🌸 About Me  
 
 Hey, I'm **Anya** 💗  
-16 • Beginner coder • Future builder
+16 • Curious Mind • Future Builder 🚀  
 
-I create things that actually work —  
-**Telegram bots, websites, and scripts** that bring ideas to life ⚡  
+I don’t just *learn* code — I **build with it**.  
+Turning ideas into reality through  
+✨ Telegram Bots  
+🌐 Websites  
+⚙️ Smart Scripts  
 
+Still a beginner, but leveling up every single day ⚡  
+I love creating things that are not just cool —  
+but actually **useful, clean, and powerful** 💻  
 
-Coding, eating, sleeping… repeat ♾️  
+> Dreaming big. Building bigger.  
+
+🍜 Coding, eating, sleeping… repeat ♾️
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
