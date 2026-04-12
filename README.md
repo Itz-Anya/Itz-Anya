@@ -45,7 +45,7 @@ but actually **useful, clean, and powerful** 💻
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
 </div> 
 
-## 🛠 Tech Stack
+## 🛠 Tools i use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,sql" />
