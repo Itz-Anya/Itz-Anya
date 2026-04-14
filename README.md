@@ -67,6 +67,9 @@ but actually **useful, clean, and powerful** 💻
 </p>
 
 
+<img src="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=Itz-Anya&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="100%" alt="Stats"/>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
