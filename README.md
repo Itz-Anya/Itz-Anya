@@ -15,7 +15,7 @@
 
 
 <p align="center">
-<img src="https://itz-murali-images.vercel.app/anya" width="300" height="200" />
+<img src="https://itz-murali-images.vercel.app/anya" width="300" height="300" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
