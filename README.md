@@ -19,13 +19,21 @@
 ```csharp
 About Me
 -------------------------------
-Name: Ananya.
-Age: 16.
-Me: High School Student 🏫.
-Location: Karnataka, India.
-Loves: Eating 🍔, Bots 📚, Websites 🌐
-Hobbies: Eating, Sleeping, Coding.
-Telegram: @SylveonHere 
+Name: Ananya
+Age: 16
+Me: High School Student 🏫
+Location: KA, IN 
+
+Personality: Chill, lazy 😴 but creative when it matters.
+
+Loves: Eating 🍔, Bots 🤖, Websites 🌐, Music 🎶
+Hobbies: Eating, Sleeping, Coding, Late-night scrolling 📱
+
+Skills: HTML, CSS, JavaScript, Python, Typescript 
+Learning: Backend development & UI/UX 🎨
+
+Telegram: @SylveonHere
+Status: Probably Eating or sleeping 😌
 ```
 <br clear="left">
 
