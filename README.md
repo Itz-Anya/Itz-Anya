@@ -67,7 +67,7 @@ Telegram: @SylveonHere
 
 <a href="https://github.com/Itz-Anya">
   <img alt="Anya's GitHub Streak" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Anya&theme=rose_pine&hide_border=true&card_width=800&card_height=250" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Anya&theme=rose_pine&hide_border=true&card_width=900&card_height=300" 
   width="90%"/>
 </a>
 
