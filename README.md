@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
-<img align="left" src="src/n.png" width="120px"/> 
+<img align="left" src="src/n.png" width="100px"/> 
 
 ```csharp
 About Me
