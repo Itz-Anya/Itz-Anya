@@ -22,24 +22,20 @@
 
 
 
-## 🌸 About Me  
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
 
-Hey, I'm **Anya** 💗  
-16 • Curious Mind • Future Builder 🚀  
-
-I don’t just *learn* code — I **build with it**.  
-Turning ideas into reality through  
-✨ Telegram Bots  
-🌐 Websites  
-⚙️ Smart Scripts  
-
-Still a beginner, but leveling up every single day ⚡  
-I love creating things that are not just cool —  
-but actually **useful, clean, and powerful** 💻  
-
-> Dreaming big. Building bigger.  
-
-🍜 Coding, eating, sleeping… repeat ♾️
+```csharp
+About Me
+-------------------------------
+Name: Ananya.
+Age: 16.
+Me: High School Student 🏫.
+Location: Karnataka, India.
+Loves: Eating 🍔, Bots 📚, Websites 🌐
+Hobbies: Eating, Sleeping, Coding.
+Telegram: @SylveonHere 
+```
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
