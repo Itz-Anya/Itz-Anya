@@ -52,20 +52,61 @@ Telegram: @SylveonHere
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itz-Anya&label=Visitors&color=FF6EC7&style=for-the-badge" />
-</p>
 
+<div align="center"> 
 
+<a href="https://github.com/Itz-Anya">
+  <img alt="Anya's Github Stats" 
+  src="https://github-stats-extended.vercel.app/api/?username=Itz-Anya&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&line_height=32&rank_icon=github&hide_border=true&icon_color=ff9ecb" 
+  width="90%"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Itz-Anya&theme=calm-pink&hide_border=true&mode=weekly&fire=EB5454" />
-</p>
+<br>
 
+<a href="https://github.com/Itz-Anya">
+  <img alt="Anya's Contribution" 
+  src="https://repository-contribution-stats.vercel.app/api?username=Itz-Anya&limit=3&theme=rose_pine&hide_border=true&combine_all_yearly_contributions=true" 
+  width="90%"/>
+</a>
 
-<img src="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=Itz-Anya&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="100%" alt="Stats"/>
+<br>
 
+<a href="https://github.com/Itz-Anya">
+  <img alt="Anya's GitHub Streak" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Anya&theme=rose_pine&hide_border=true&card_width=800&card_height=250" 
+  width="90%"/>
+</a>
 
+<br>
+
+<a href="https://github.com/Itz-Anya">
+  <img alt="Anya's Top Languages" 
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Itz-Anya&layout=compact&theme=rose_pine&hide_border=true" 
+  width="90%"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Itz-Anya">
+  <img alt="Anya's Contribution Graph" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-Anya&theme=rose-pine&bg_color=fff0f6&title_color=ff7eb9&hide_border=true&radius=6&color=ff7eb9&line=ff4fa3&point=ff85c1&area=true&area_color=ffc0de" 
+  width="95%"/>
+</a>
+
+</div>
+
+<br>
+
+<h2 align="center"> 🏆 GitHub Trophies 🎀 </h2>
+
+<div align="center">
+
+<a href="https://github.com/Itz-Anya">
+  <img src="https://github-trophies.vercel.app/?username=Itz-Anya&theme=algolia&no-frame=true&no-bg=false&margin-w=6" 
+  alt="Trophies" width="95%"/>
+</a>
+
+</div> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
