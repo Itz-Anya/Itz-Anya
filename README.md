@@ -41,7 +41,7 @@ Telegram: @SylveonHere
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
 </div> 
 
-## 🛠 Tools i use
+## 🛠 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,sql" />
@@ -95,8 +95,9 @@ Telegram: @SylveonHere
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
+ 
 <h2> 🏆 GitHub Trophies 🎀 </h2>
 
 <div align="center">
@@ -118,6 +119,7 @@ Telegram: @SylveonHere
 <br>
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
 
 <p align="center">
