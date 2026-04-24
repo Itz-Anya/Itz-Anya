@@ -108,6 +108,18 @@ Telegram: @SylveonHere
 
 </div> 
 
+
+
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://count.getloli.com/@Itz-Anya?name=Itz-Anya&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+  </div>
+<br>
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
 </p>
