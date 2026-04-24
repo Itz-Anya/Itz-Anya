@@ -63,13 +63,7 @@ Telegram: @SylveonHere
 
 <br>
 
-<a href="https://github.com/Itz-Anya">
-  <img alt="Anya's Contribution" 
-  src="https://repository-contribution-stats.vercel.app/api?username=Itz-Anya&limit=3&theme=rose_pine&hide_border=true&combine_all_yearly_contributions=true" 
-  width="90%"/>
-</a>
 
-<br>
 
 <a href="https://github.com/Itz-Anya">
   <img alt="Anya's GitHub Streak" 
@@ -79,13 +73,6 @@ Telegram: @SylveonHere
 
 <br>
 
-<a href="https://github.com/Itz-Anya">
-  <img alt="Anya's Top Languages" 
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Itz-Anya&layout=compact&theme=rose_pine&hide_border=true" 
-  width="90%"/>
-</a>
-
-<br>
 
 <a href="https://github.com/Itz-Anya">
   <img alt="Anya's Contribution Graph" 
