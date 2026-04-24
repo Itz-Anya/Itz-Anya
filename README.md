@@ -65,20 +65,12 @@ Telegram: @SylveonHere
 
 
 
-<a href="https://github.com/Itz-Anya">
-  <img alt="Anya's GitHub Streak" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Anya&theme=rose_pine&hide_border=true&card_width=900&card_height=300" 
-  width="90%"/>
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Anya&theme=ambient-gradient&border_radius=&card_width=500&card_height=200)](https://git.io/streak-stats)
+
 
 <br>
 
-
-<a href="https://github.com/Itz-Anya">
-  <img alt="Anya's Contribution Graph" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-Anya&theme=rose-pine&bg_color=fff0f6&title_color=ff7eb9&hide_border=true&radius=6&color=ff7eb9&line=ff4fa3&point=ff85c1&area=true&area_color=ffc0de" 
-  width="95%"/>
-</a>
 
 </div>
 
