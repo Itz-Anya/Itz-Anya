@@ -97,7 +97,7 @@ Telegram: @SylveonHere
 
 <br>
 
-<h2 align="center"> 🏆 GitHub Trophies 🎀 </h2>
+<h2> 🏆 GitHub Trophies 🎀 </h2>
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Telegram: @SylveonHere
 
 
 <div>
-<h2 align="center">View counter 👀</h2>
+<h2>View counter 👀</h2>
 <div align="center">
 <img src="https://count.getloli.com/@Itz-Anya?name=Itz-Anya&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
   </div>
