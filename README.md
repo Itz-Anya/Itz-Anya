@@ -9,12 +9,12 @@
 <h1 align="center">𝜜ɴყꫝㅤ𓆩💗𓆪 </h1>
 
 <p align="center">
-<img src="https://itz-murali-images.vercel.app/anya" width="300" height="300" />
+<img src="https://random-images-anya.vercel.app/anya" width="300" height="300" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
-<img align="left" src="src/n.png" width="100px"/> 
+<img align="left" src="https://random-images-anya.vercel.app/neko" width="100px"/> 
 
 ```csharp
 About Me
