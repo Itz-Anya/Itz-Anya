@@ -42,7 +42,7 @@ Status: Probably Eating or sleeping 😌
 ## 🛠 Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,vite,vercel,tailwind,react" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
@@ -59,7 +59,7 @@ Status: Probably Eating or sleeping 😌
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Anya&theme=ambient-gradient&border_radius=&card_width=500&card_height=200)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Anya&theme=ambient-gradient&border_radius=&card_width=500&card_height=200)
 
 <br>
 
