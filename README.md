@@ -51,17 +51,9 @@ Status: Probably Eating or sleeping 😌
 
 <div align="center"> 
 
-<a href="https://github.com/Itz-Anya">
-  <img alt="Anya's Github Stats" 
-  src="https://github-stats-extended.vercel.app/api/?username=Itz-Anya&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&line_height=32&rank_icon=github&hide_border=true&icon_color=ff9ecb" 
-  width="90%"/>
-</a>
 
-<br>
+![Itz-Anya's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=sakura&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Anya&theme=ambient-gradient&border_radius=&card_width=500&card_height=200)
-
-<br>
 
 </div>
 
