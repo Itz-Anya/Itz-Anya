@@ -55,6 +55,16 @@ Status: Probably Eating or sleeping 😌
 ![Itz-Anya's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=sakura&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers)
 
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-Anya&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<br>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
