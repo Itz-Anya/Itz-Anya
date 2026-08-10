@@ -50,9 +50,16 @@ Status: Probably Eating or sleeping 😌
 ## 📊 GitHub Stats
 
 <div align="center"> 
+  
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=Itz-Anya&theme=neon&style=aura)
+
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=Itz-Anya&theme=neon&style=aura)
 
 
-![Itz-Anya's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=sakura&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers)
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=Itz-Anya&theme=neon&style=aura)
+
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=Itz-Anya&theme=neon&style=aura)
+
 
 
 <br>
