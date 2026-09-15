@@ -88,7 +88,9 @@ Status: Probably Eating or sleeping 😌
 </div>
 
 
+## Random Dev Quote
 
+![h](https://codequote.vercel.app/api/quote.svg?theme=synthwave)
 
 
 <div>
