@@ -22,7 +22,7 @@ About Me
 Name: Ananya
 Age: 16
 Me: High School Student 🏫
-Location: KA, IN 
+Location: Earth
 
 Personality: Chill, lazy 😴 but creative when it matters.
 
