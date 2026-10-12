@@ -52,7 +52,7 @@ Status: Probably Eating or sleeping 😌
 <div align="center"> 
   
 
-![Itz-Anya's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=sakura&border_radius=14)
+![Itz-Anya's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=random&border_radius=14&include_private=true)
 
 
 
