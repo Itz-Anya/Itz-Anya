@@ -44,6 +44,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
 
+<img src="https://code-quote.vercel.app/api/quote.svg?theme=synthwave" alt="Code Quote" />
 
 
 <div>
