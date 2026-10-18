@@ -25,34 +25,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=2&section=header">
 
-## 📊 GitHub Stats
+<a href="https://github.com/Itz-Anya">
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=lavender&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers%2Cpinned%2Clanguages%2Cstreakinfo" alt="Itz-Anya GitHub Stats" width="100%" />
+</a>
 
-<div align="center"> 
-  
+<a href="https://github.com/Itz-Anya">
+  <img src="https://anya-github-stats.vercel.app/api/contribution-act?username=Itz-Anya&theme=lavender&year=2026" alt="Itz-Anya GitHub Contributions" width="100%" />
+</a>
 
-![Itz-Anya's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Anya&theme=random&border_radius=14&include_private=true)
+<a href="https://github.com/Itz-Anya">
+  <img src="https://anya-github-stats.vercel.app/api/streak?username=Itz-Anya&theme=arctic" alt="Itz-Anya GitHub Streak" width="100%" />
+</a>
+<a href="https://github.com/Itz-Anya">
+  <img src="https://anya-github-stats.vercel.app/api/trophies?username=Itz-Anya&theme=tokyonight&columns=3" alt="Itz-Anya GitHub Trophies" width="100%" />
+</a>
 
-
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffdde1,50:ee9ca7,100:c1c8e4&height=2&section=header">
 
-<h2> 🏆 GitHub Trophies 🎀 </h2>
 
-<div align="center">
-
-<a href="https://github.com/Itz-Anya">
-  <img src="https://github-trophies.vercel.app/?username=Itz-Anya&theme=algolia&no-frame=true&no-bg=false&margin-w=6" 
-  alt="Trophies" width="95%"/>
-</a>
-
-</div>
-
-
-## Random Dev Quote
-
-![h](https://codequote.vercel.app/api/quote.svg?theme=synthwave)
 
 
 <div>
